@@ -1,7 +1,7 @@
 # Hello World 👋
   
 <div align="center"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF757&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Juliano%2C;Sejam+Bem+vindos!!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF757&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Juliano%2C;Sejam+Bem+vindos!!" alt="Typing SVG" /></a>
 </div>
 
 ---
