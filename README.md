@@ -6,6 +6,7 @@
 
 ---
 
+
   
 ---
 
@@ -19,8 +20,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordm
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 <img align="center" alt="Git" height="60" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-<img align="center" alt="VScode" height="40" width="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original-wordmark.svg">
+<img align="center" alt="Java" height="40" width="50" 
+src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg">
 <img align="center" alt="GitHub" height="60" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 </div>
