@@ -35,6 +35,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-w
   
 
   
-  ![Snake animation](https://github.com/DevSntosx71/DevSntosx71/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DevSantos09/DevSantos09/blob/output/github-contribution-grid-snake.svg)
  
 </div>
