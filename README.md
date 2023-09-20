@@ -1,4 +1,4 @@
-
+Certamente, aqui está o texto completo organizado:
 
 # 💫 Sobre Mim:
 - 👨‍💻 Sou um Programador Júnior em Java Full Stack, em busca de crescimento constante.
@@ -24,6 +24,6 @@
 ![Repositório com Maior Contribuição](https://github-contributor-stats.vercel.app/api?username=DevSntosx71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Meme Aleatório de Desenvolvedor
-<img src='https://randommeme-five.vercel.app/' style="height: 
-
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+---
 [![Contagem de Visitas](https://visitcount.itsvg.in/api?id=DevSntosx71&icon=0&color=0)](https://visitcount.itsvg.in)
