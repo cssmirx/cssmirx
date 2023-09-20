@@ -24,7 +24,6 @@
 ![Repositório com Maior Contribuição](https://github-contributor-stats.vercel.app/api?username=DevSntosx71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Meme Aleatório de Desenvolvedor
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-![Animação Snake](https://github.com/DevSntosx71/blob/output/github-contribution-grid-snake.svg)
----
+<img src='https://randommeme-five.vercel.app/' style="height: 
+
 [![Contagem de Visitas](https://visitcount.itsvg.in/api?id=DevSntosx71&icon=0&color=0)](https://visitcount.itsvg.in)
