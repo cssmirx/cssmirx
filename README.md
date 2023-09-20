@@ -1,4 +1,3 @@
-Certamente, aqui está o texto completo organizado:
 
 # 💫 Sobre Mim:
 - 👨‍💻 Sou um Programador Júnior em Java Full Stack, em busca de crescimento constante.
@@ -26,5 +25,3 @@ Certamente, aqui está o texto completo organizado:
 ### 😂 Meme Aleatório de Desenvolvedor
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
----
-[![](https://visitcount.itsvg.in/api?id=DevSntosx71&icon=0&color=0)](https://visitcount.itsvg.in)
