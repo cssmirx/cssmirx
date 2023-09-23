@@ -32,8 +32,3 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=DevSntosx71&icon=6&color=0)](https://visitcount.itsvg.in)
-
-## 💰 Você pode me ajudar doando
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DevSntosx71) 
-
-<!-- Criado com orgulho com GPRM ( https://gprm.itsvg.in ) -->
