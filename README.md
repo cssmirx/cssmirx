@@ -22,9 +22,6 @@
 ## 🏆 Troféus do GitHub
 ![](https://github-profile-trophy.vercel.app/?username=DevSntosx71&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Citação Aleatória de Desenvolvedor
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Principal Repositório Contribuído
 ![](https://github-contributor-stats.vercel.app/api?username=DevSntosx71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
