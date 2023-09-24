@@ -2,7 +2,7 @@
 
 
 # 💫 Sobre Mim:
-- 👨‍💻 Sou um Programador Júnior em Java Full Stack, em busca de crescimento constante.
+- 👨‍💻 Sou um Programador Júnior em Java Full Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, em busca de crescimento constante.
 - 📚 Estou aprendendo e aprimorando minhas habilidades em Java Full Stack.
 - 🤝 Busco colaborar em projetos desafiadores e aprender com colegas experientes.
 - 🎾 Fora do trabalho, meu hobby é jogar tênis, e tenho uma paixão por aprender coisas novas.
