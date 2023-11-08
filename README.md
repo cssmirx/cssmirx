@@ -12,7 +12,7 @@
 ### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=DevSntosx71&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Developer Meme
+### 😂 Random Developer
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=DevSntosx71&icon=6&color=0)](https://visitcount.itsvg.in)
