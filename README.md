@@ -33,6 +33,7 @@ public class FullStackDeveloper {
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
  # 📊 GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api?username=DevSntosx71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
