@@ -1,4 +1,7 @@
-public class DesenvolvedorFullStack {
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
+
+# public class DesenvolvedorFullStack {
     public static void main(String[] args) {
         String bio = "<p align=\"center\">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento backend com Flask até o frontend com ReactTS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível intermediário</strong> focado em desenvolvimento web.</p>&nbsp;";
         System.out.println(bio);
@@ -41,10 +44,10 @@ public class DesenvolvedorFullStack {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSntosx71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  
- 🏆 Troféus do GitHub
+ # 🏆 Troféus do GitHub
 ![](https://github-profile-trophy.vercel.app/?username=DevSntosx71&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Contatos:
+# Contatos:
 
 <div> 
 <a href="https://www.instagram.com/_Sntosk._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
