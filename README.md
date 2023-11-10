@@ -1,3 +1,10 @@
+public class FullStackDeveloper {
+    public static void main(String[] args) {
+        String bio = "<p align=\"center\">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;";
+        System.out.println(bio);
+    }
+}
+
 # Technology Stack
 
 ## Languages
@@ -5,7 +12,7 @@
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- [PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## Frameworks
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -27,17 +34,19 @@
 - ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=DevSntosx71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevSntosx71&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSntosx71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevSntosx71&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=DevSntosx71&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DevSntosx71&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-Devsntosx71.vercel.app/api/top-langs/?username=DevSntosx71&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
 ### 😂 Random Developer Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=DevSntosx71&icon=6&color=0)](https://visitcount.itsvg.in)
+
+
+
+
