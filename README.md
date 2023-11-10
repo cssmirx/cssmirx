@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-
-# public class DesenvolvedorFullStack {
+public class DesenvolvedorFullStack {
     public static void main(String[] args) {
         String bio = "<p align=\"center\">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento backend com Flask até o frontend com ReactTS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível intermediário</strong> focado em desenvolvimento web.</p>&nbsp;";
         System.out.println(bio);
-   }
+    }
 }
 
 # Pilha de Tecnologias
