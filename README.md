@@ -11,8 +11,6 @@ public class FullStackDeveloper {
 }
 ```
 
-# Technology Stack
-
 ## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -41,15 +39,12 @@ public class FullStackDeveloper {
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
 
-# 📊 GitHub Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DevSntosx71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSntosx71&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSntosx71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevSntosx71&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# Contacts:
+
 
 <div> 
 <a href="https://wa.me/5511914847365?text=Olá%20Juliano!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%52a447?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -57,6 +52,5 @@ public class FullStackDeveloper {
 <a href="mailto:contato.Juliano.santos88@etec.sp.gov.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://learn.microsoft.com/pt-br/users/JULIANOCASSIMIRODOSSANTOS-8469/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Learn-8100bd?style=for-the-badge&logo=microsoft&logoColor=white"></a> 
-  
-
+ 
 </div>
