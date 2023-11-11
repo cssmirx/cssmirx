@@ -1,9 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6d00f3&height=120&section=header"/>
 
 
-```markdown
-# Full Stack Developer
-
 ```java
 public class FullStackDeveloper {
     public static void main(String[] args) {
@@ -61,8 +58,4 @@ public class FullStackDeveloper {
 <a href="https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
 
-&nbsp;
-&nbsp;
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6d00f3&height=120&section=footer"/>
-```
