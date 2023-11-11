@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=rgb(109, 0, 243)&height=120&section=header"/>
 
 public class DesenvolvedorFullStack {
     public static void main(String[] args) {
@@ -58,4 +58,4 @@ public class DesenvolvedorFullStack {
 &nbsp;
 &nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=rgb(109, 0, 243)&height=120&section=footer"/>
