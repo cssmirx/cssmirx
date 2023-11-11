@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6d00f3&height=120&section=header"/>
 
+<img src="https://github.com/DevSntosx71/DevSntosx71/blob/main/535A8299-DA6C-4E0A-9BDB-4415548F8E17.png?"raw=truemin-width="400px" max-width="400px" width="400px" align="right" alt="tump">
 
 ```java
 public class FullStackDeveloper {
