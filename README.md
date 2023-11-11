@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#6500a3&height=120&section=header)
 
 
 ![Tumb](https://raw.githubusercontent.com/DevSntosx71/DevSntosx71/main/535A8299-DA6C-4E0A-9BDB-4415548F8E17.png)
@@ -57,5 +56,3 @@ public class FullStackDeveloper {
 <a href="mailto:contato.Juliano.santos88@etec.sp.gov.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=#6500a3&height=120&section=footer)
