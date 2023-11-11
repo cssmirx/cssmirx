@@ -1,15 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6d00f3&height=120&section=header"/>
 
-public class DesenvolvedorFullStack {
+
+```markdown
+# Full Stack Developer
+
+```java
+public class FullStackDeveloper {
     public static void main(String[] args) {
-        String bio = "<p align=\"center\">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento backend com Flask até o frontend com ReactTS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível intermediário</strong> focado em desenvolvimento web.</p>&nbsp;";
+        String bio = "<p align=\"center\">I ❤️ solving big challenges using technology. <br><br> From backend development with Flask to frontend with ReactTS, I am <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today, I am an <strong>intermediate-level full stack developer</strong> focused on web development.</p>&nbsp;";
         System.out.println(bio);
     }
 }
+```
 
-# Pilha de Tecnologias
+# Technology Stack
 
-## Linguagens
+## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -22,31 +28,31 @@ public class DesenvolvedorFullStack {
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-## Bancos de Dados
+## Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Nuvem
+## Cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-## Controle de Versão
+## Version Control
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
-## Outras Ferramentas
+## Other Tools
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
 
- # 📊 Estatísticas do GitHub
+ # 📊 GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api?username=DevSntosx71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevSntosx71&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSntosx71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  
- # 🏆 Troféus do GitHub
+ # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevSntosx71&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# Contatos:
+# Contacts:
 
 <div> 
 <a href="https://www.instagram.com/_Sntosk._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -59,3 +65,4 @@ public class DesenvolvedorFullStack {
 &nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6d00f3&height=120&section=footer"/>
+```
