@@ -1,13 +1,3 @@
-```java
-public class DesenvolvedorFullStack {
-    public static void main(String[] args) {
-        String biografia = "<p align=\"center\">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend com Spring java  ao frontend com ReactTS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível basico </strong></p>&nbsp;";
-        System.out.println(biografia);
-    }
-}
-```
-
-# Pilha de Tecnologia
 
 ## Linguagens
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -40,4 +30,3 @@ public class DesenvolvedorFullStack {
 <div> 
 <a href="https://www.instagram.com/_Sntosk._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:contato.Juliano.santos88@etec.sp.gov.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-```
