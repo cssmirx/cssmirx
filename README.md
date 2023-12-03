@@ -44,6 +44,17 @@
 
 ##
 
+#### Formação Acadêmica:
+Na visão geral abaixo você encontrará minha formação acadêmica:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqYGlXYPAHCe_sASXQfBaGJqTW1I8o-Johw&usqp=CAU"/>](https://etec.carmine/)
+**Software Developer** \
+[**ETEC**](https://cubos.academy/) \
+Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
+<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
+
+##
+
 #### Estatísticas:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsntosx71&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=DevSntosx71&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
