@@ -18,6 +18,8 @@
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
 [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://apache.com)
 [<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://php.com)
+[<img height="48px" width="48px" alt="Icone Arduino" src="https://skillicons.dev/icons?i=arduino"/>](https://arduino.com)
+[<img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring"/>](https://arduino.com)
 
 ##
 
