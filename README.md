@@ -23,6 +23,7 @@
 [<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://php.com)
 [<img height="48px" width="48px" alt="Icone Arduino" src="https://skillicons.dev/icons?i=arduino"/>](https://arduino.com)
 [<img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring"/>](https://arduino.com)
+[<img height="48px" width="48px" alt="Icone C++" src="https://skillicons.dev/icons?i=c++"/>](https://arduino.com)
 
 ##
 
