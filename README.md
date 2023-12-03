@@ -48,14 +48,14 @@
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqYGlXYPAHCe_sASXQfBaGJqTW1I8o-Johw&usqp=CAU"/>](https://etec.carmine/)
-**Software Developer** \
+**Anlise e desenvolvimento de sistemas** \
 [**ETEC**](https://cubos.academy/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
+Linguagens & Tecnologias - Front-end: `HTML`, `CSS`,  `JavaScript`, `React.js`, `TypeScript`
+<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `spring-boot`,
 
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjpsqJvahtYAD5J0mjVEAah7TgcBQkzKxSA&usqp=CAU"/>](https://etec.carmine/)
-**Software Developer** \
+**AI-900** \
 [**SENAI **](https://cubos.academy/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
 <br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
