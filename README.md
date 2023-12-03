@@ -46,13 +46,13 @@
 
 Formação Acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Etec" src="https://your_etec_image_link_here"/>](https://etec.carmine/)
+[<img align="left" height="94px" width="94px" alt="Etec" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5epvonaE5M2igERK0dncydYHvp5-DPgXBQ&usqp=CAU"/>](https://etec.carmine/)
 **Análise e Desenvolvimento de Sistemas** \
 [**ETEC Prof. Carmine Biagio Tundisi**](https://etec.carmine/) \
 Período: 2022 - 2025 \
 Competências: `CSS`, `Trabalho em equipe`, `MySQL`, `Design gráfico`, `Desenvolvimento Java`, `Atividades de integração de equipe`, `Banco de dados`, `Análise de projetos de sistemas`, `HTML5`, `PHP`
 
-[<img align="left" height="94px" width="94px" alt="Senai" src="https://your_senai_image_link_here"/>](https://senai-sp.br/)
+[<img align="left" height="94px" width="94px" alt="Senai" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjpsqJvahtYAD5J0mjVEAah7TgcBQkzKxSA&usqp=CAU"/>](https://senai-sp.br/)
 **Inteligência Artificial AI-900** \
 [**SENAI São Paulo**](https://senai-sp.br/) \
 Período: Ago 2023 - Out 2023 \
