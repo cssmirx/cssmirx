@@ -1,6 +1,9 @@
 
 ## Hello, Devs!! 👋
-### O meu nome é Juliano, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+ O meu nome é Juliano, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+##
 
 - 🔰  Sou de Atibaia-SP, Brasil
 - ⚡ Apaixonado por Java e Tecnologia
@@ -44,6 +47,3 @@
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsntosx71&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=DevSntosx71&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=DevSntosx71&amp;theme=radical"/>](https://github.com/)
-
-
-d
