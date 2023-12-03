@@ -46,7 +46,7 @@
 
 ### Formação Acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Etec" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5epvonaE5M2igERK0dncydYHvp5-DPgXBQ&usqp=CAU"/>](https://etec.carmine/)
+[<img align="left" height="94px" width="94px" alt="Etec" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKD-WQPvQrM1mJW9oFmHYn2fRvQwbnFbvsQ&usqp=CAU"/>](https://etec.carmine/)
 **Análise e Desenvolvimento de Sistemas** \
 [**ETEC Prof. Carmine Biagio Tundisi**](https://etec.carmine/) \
 Período: 2022 - 2025 \
