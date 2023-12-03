@@ -44,21 +44,19 @@
 
 ##
 
-#### Formação Acadêmica:
-Na visão geral abaixo você encontrará minha formação acadêmica:
+Formação Acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqYGlXYPAHCe_sASXQfBaGJqTW1I8o-Johw&usqp=CAU"/>](https://etec.carmine/)
-**Anlise e desenvolvimento de sistemas** \
-[**ETEC**](https://cubos.academy/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`,  `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `spring-boot`,
+[<img align="left" height="94px" width="94px" alt="Etec" src="https://your_etec_image_link_here"/>](https://etec.carmine/)
+**Análise e Desenvolvimento de Sistemas** \
+[**ETEC Prof. Carmine Biagio Tundisi**](https://etec.carmine/) \
+Período: 2022 - 2025 \
+Competências: `CSS`, `Trabalho em equipe`, `MySQL`, `Design gráfico`, `Desenvolvimento Java`, `Atividades de integração de equipe`, `Banco de dados`, `Análise de projetos de sistemas`, `HTML5`, `PHP`
 
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjpsqJvahtYAD5J0mjVEAah7TgcBQkzKxSA&usqp=CAU"/>](https://etec.carmine/)
-**AI-900** \
-[**SENAI **](https://cubos.academy/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
+[<img align="left" height="94px" width="94px" alt="Senai" src="https://your_senai_image_link_here"/>](https://senai-sp.br/)
+**Inteligência Artificial AI-900** \
+[**SENAI São Paulo**](https://senai-sp.br/) \
+Período: Ago 2023 - Out 2023 \
+Competências: `Azure DevOps Server`, `Azure DevOps`, `Microsoft Azure Machine Learning`, `AI-900`
 
 ##
 
