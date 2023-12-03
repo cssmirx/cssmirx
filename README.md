@@ -44,7 +44,7 @@
 
 ##
 
-Formação Acadêmica:
+### Formação Acadêmica:
 
 [<img align="left" height="94px" width="94px" alt="Etec" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5epvonaE5M2igERK0dncydYHvp5-DPgXBQ&usqp=CAU"/>](https://etec.carmine/)
 **Análise e Desenvolvimento de Sistemas** \
