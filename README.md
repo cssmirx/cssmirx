@@ -36,4 +36,11 @@
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:Juliano.santos88@icloud.com)
 
+##
+
+#### Estatísticas:
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSntosx7-&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=DevSntosx71&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=DevSntosx71&amp;theme=radical"/>](https://github.com/)
+
 
