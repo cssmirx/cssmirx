@@ -49,7 +49,7 @@
 [<img align="left" height="94px" width="94px" alt="Etec" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKD-WQPvQrM1mJW9oFmHYn2fRvQwbnFbvsQ&usqp=CAU"/>](https://etec.carmine/)
 **Análise e Desenvolvimento de Sistemas** \
 [**ETEC Prof. Carmine Biagio Tundisi**](https://etec.carmine/) \
-Período: 2022 - 2025 \
+Período: 2022 - 2024 \
 Competências: `CSS`, `Trabalho em equipe`, `MySQL`, `Design gráfico`, `Desenvolvimento Java`, `Atividades de integração de equipe`, `Banco de dados`, `Análise de projetos de sistemas`, `HTML5`, `PHP`
 
 [<img align="left" height="94px" width="94px" alt="Senai" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjpsqJvahtYAD5J0mjVEAah7TgcBQkzKxSA&usqp=CAU"/>](https://senai-sp.br/)
