@@ -54,7 +54,7 @@ Competências: `CSS`, `Trabalho em equipe`, `MySQL`, `Design gráfico`, `Desenvo
 
 [<img align="left" height="94px" width="94px" alt="Senai" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjpsqJvahtYAD5J0mjVEAah7TgcBQkzKxSA&usqp=CAU"/>](https://senai-sp.br/)
 **Inteligência Artificial AI-900** \
-[**SENAI São Paulo**](https://senai-sp.br/) \
+[**SENAI Bragança paulista**](https://senai-sp.br/) \
 Período: Ago 2023 - Out 2023 \
 Competências: `Azure DevOps Server`, `Azure DevOps`, `Microsoft Azure Machine Learning`, `AI-900`
 
