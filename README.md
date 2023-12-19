@@ -10,7 +10,7 @@ My name is Juliano, and welcome to my GitHub profile. <img src="https://raw.gith
 
 ##
 
-#### I am learning about:
+## I am learning about:
 [<img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -26,7 +26,7 @@ My name is Juliano, and welcome to my GitHub profile. <img src="https://raw.gith
 
 ##
 
-#### Tools I use:
+## Tools I use:
 [<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Postman Icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
@@ -37,13 +37,13 @@ My name is Juliano, and welcome to my GitHub profile. <img src="https://raw.gith
 
 ##
 
-#### How to reach me:
+## How to reach me:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [<img alt="Apple Icloud Mail" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:Juliano.santos88@icloud.com)
 
 ##
 
-### Academic Background:
+## Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="Etec" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKD-WQPvQrM1mJW9oFmHYn2fRvQwbnFbvsQ&usqp=CAU"/>](https://etec.carmine/)
 **Systems Analysis and Development** \
@@ -59,7 +59,7 @@ Skills: `Azure DevOps Server`, `Azure DevOps`, `Microsoft Azure Machine Learning
 
 ##
 
-#### Statistics:
+## Statistics:
 <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSantosxTech&layout=compact&langs_count=7&theme=radical"/>
 <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=DSantosxTech&show_icons=true&include_all_commits=true&theme=radical"/>
 <img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=DSantosxTech&amp;theme=radical"/>
