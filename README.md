@@ -23,6 +23,8 @@ My name is Juliano, and welcome to my GitHub profile. <img src="https://raw.gith
 [<img height="48px" width="48px" alt="Arduino Icon" src="https://skillicons.dev/icons?i=arduino"/>](https://arduino.com)
 [<img height="48px" width="48px" alt="Spring Icon" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io)
 [<img height="48px" width="48px" alt="Sass Icon" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
+[<img height="48px" width="48px" alt="Sass Icon" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/downloads/)
+[<img height="48px" width="48px" alt="Sass Icon" src="https://skillicons.dev/icons?i=firebse"/>](https://console.firebase.google.com/?hl=pt-br)
 
 ##
 
