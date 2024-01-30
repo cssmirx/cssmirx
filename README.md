@@ -15,28 +15,24 @@ My name is Juliano, and welcome to my GitHub profile. <img src="https://raw.gith
 [<img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="TypeScript Icon" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="React Icon" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Angular Icon" src="https://skillicons.dev/icons?i=angular"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Npm.js Icon" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
-[<img height="48px" width="48px" alt="Node.js Icon" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
 [<img height="48px" width="48px" alt="Java Icon" src="https://skillicons.dev/icons?i=java"/>](https://apache.com)
-[<img height="48px" width="48px" alt="PHP Icon" src="https://skillicons.dev/icons?i=php"/>](https://php.com)
 [<img height="48px" width="48px" alt="Arduino Icon" src="https://skillicons.dev/icons?i=arduino"/>](https://arduino.com)
 [<img height="48px" width="48px" alt="Spring Icon" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io)
-[<img height="48px" width="48px" alt="Sass Icon" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
-[<img height="48px" width="48px" alt="Sass Icon" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/downloads/)
-[<img height="48px" width="48px" alt="Sass Icon" src="https://skillicons.dev/icons?i=firebse"/>](https://console.firebase.google.com/?hl=pt-br)
+
 
 ##
 
 #### Tools I use:
+[<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=eclipse"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Postman Icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Git Icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Vercel Icon" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
 [<img height="48px" width="48px" alt="Azure DevOps Icon" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
-[<img height="48px" width="48px" alt="Figma Icon" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
-
+[<img height="48px" width="48px" alt="Azure DevOps Icon" src="https://skillicons.dev/icons?i=docker"/>](https://azure.microsoft.com/pt-br/products/devops/)
 ##
 
 #### How to reach me:
