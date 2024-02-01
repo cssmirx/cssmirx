@@ -10,7 +10,7 @@ My name is Juliano, and welcome to my GitHub profile. <img src="https://raw.gith
 
 ##
 
-I am exploring various technologies:
+### I am exploring various technologies:
 
 [![HTML Icon](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
@@ -22,22 +22,20 @@ I am exploring various technologies:
 
 [![Java Icon](https://skillicons.dev/icons?i=java)](https://apache.com)
 
-My frameworks include:
+### My frameworks include:
 
 [![Angular Icon](https://skillicons.dev/icons?i=angular)](https://pt-br.react.dev)
 
 [![Spring Icon](https://skillicons.dev/icons?i=spring)](https://spring.io)
 
-For leisure:
+### For leisure:
 
 [![Arduino Icon](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
 
 #### Tools I use:
 [<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Postman Icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Git Icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Vercel Icon" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
 [<img height="48px" width="48px" alt="Azure DevOps Icon" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
 [<img height="48px" width="48px" alt="Azure DevOps Icon" src="https://skillicons.dev/icons?i=docker"/>](https://azure.microsoft.com/pt-br/products/devops/)
 ##
