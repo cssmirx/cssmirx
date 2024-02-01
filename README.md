@@ -10,22 +10,29 @@ My name is Juliano, and welcome to my GitHub profile. <img src="https://raw.gith
 
 ##
 
-#### I am learning about:
-[<img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="TypeScript Icon" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="Angular Icon" src="https://skillicons.dev/icons?i=angular"/>](https://pt-br.react.dev)
-[<img height="48px" width="48px" alt="Npm.js Icon" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
-[<img height="48px" width="48px" alt="Java Icon" src="https://skillicons.dev/icons?i=java"/>](https://apache.com)
-[<img height="48px" width="48px" alt="Arduino Icon" src="https://skillicons.dev/icons?i=arduino"/>](https://arduino.com)
-[<img height="48px" width="48px" alt="Spring Icon" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io)
+I am exploring various technologies:
 
+[![HTML Icon](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-##
+[![CSS Icon](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+[![JavaScript Icon](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+[![TypeScript Icon](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/pt/)
+
+[![Java Icon](https://skillicons.dev/icons?i=java)](https://apache.com)
+
+My frameworks include:
+
+[![Angular Icon](https://skillicons.dev/icons?i=angular)](https://pt-br.react.dev)
+
+[![Spring Icon](https://skillicons.dev/icons?i=spring)](https://spring.io)
+
+For leisure:
+
+[![Arduino Icon](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
 
 #### Tools I use:
-[<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=eclipse"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Postman Icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
@@ -47,7 +54,7 @@ My name is Juliano, and welcome to my GitHub profile. <img src="https://raw.gith
 **Systems Analysis and Development** \
 [**ETEC Prof. Carmine Biagio Tundisi**](https://etec.carmine/) \
 Period: 2022 - 2024 \
-Skills: `CSS`, `Teamwork`, `MySQL`, `Graphic design`, `Java development`, `Team integration activities`, `Database`, `System project analysis`, `HTML5`, `PHP`
+Skills: `CSS`, `Teamwork`, `MySQL`, `Graphic design`, `Java development`, `Team integration activities`, `Database`, `System project analysis`, `HTML5`
 
 [<img align="left" height="94px" width="94px" alt="Senai" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjpsqJvahtYAD5J0mjVEAah7TgcBQkzKxSA&usqp=CAU"/>](https://senai-sp.br/)
 **Artificial Intelligence AI-900** \
