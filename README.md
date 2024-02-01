@@ -22,6 +22,8 @@ My name is Juliano, and welcome to my GitHub profile. <img src="https://raw.gith
 
 [![Java Icon](https://skillicons.dev/icons?i=java)](https://apache.com)
 
+[![Java Icon](https://skillicons.dev/icons?i=cpp)](https://apache.com)
+
 ### My frameworks include:
 
 [![Angular Icon](https://skillicons.dev/icons?i=angular)](https://pt-br.react.dev)
