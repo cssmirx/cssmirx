@@ -3,7 +3,7 @@
 My name is Juliano, and welcome to my GitHub profile. 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="200px" max-width="200px" width="200px" align="right">
 
-## About Me
+### About Me
 - 🔰  I'm from Atibaia-SP, Brazil.
 - ⚡ Passionate about Java and Technology.
 - 🧠 Studying systems analysis and development at Etec Carmine Biagio Tundisi.
@@ -23,10 +23,10 @@ My name is Juliano, and welcome to my GitHub profile.
 [![Spring Icon](https://skillicons.dev/icons?i=spring)](https://spring.io)
 [![React Icon](https://skillicons.dev/icons?i=react)](https://pt-br.legacy.reactjs.org/docs/getting-started.html)
 
-## Leisure
+### Leisure
 [![Arduino Icon](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
 
-## Tools
+### Tools
 [<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Postman Icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Git Icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
