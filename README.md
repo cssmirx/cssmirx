@@ -42,7 +42,7 @@ My name is Juliano, and welcome to my GitHub profile.
 **Systems Analysis and Development** \
 [**ETEC Prof. Carmine Biagio Tundisi**](https://etec.carmine/) \
 Period: 2022 - 2024 \
-Skills: `CSS`, `Teamwork`, `MySQL`, `Graphic design`, `Java development`, `Team integration activities`, `Database`, `System project analysis`, `HTML5`
+Skills: `CSS`, `Teamwork`, `MySQL`, `Graphic design`, `Java development`, `Team integration activities`, `Database`, `System project analysis`, `HTML5` ,`PHP` ,`C++` ,`Arduino` 
 
 [<img align="left" height="94px" width="94px" alt="Senai" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjpsqJvahtYAD5J0mjVEAah7TgcBQkzKxSA&usqp=CAU"/>](https://senai-sp.br/)
 **Artificial Intelligence AI-900** \
