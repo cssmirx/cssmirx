@@ -32,6 +32,7 @@ My name is Juliano, and welcome to my GitHub profile.
 [<img height="48px" width="48px" alt="Git Icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Azure DevOps Icon" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
 [<img height="48px" width="48px" alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>](https://azure.microsoft.com/pt-br/products/devops/)
+[<img height="48px" width="48px" alt="Docker Icon" src="https://skillicons.dev/icons?i=vercel"/>](https://azure.microsoft.com/pt-br/products/devops/)
 
 ## How to reach me
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
