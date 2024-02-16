@@ -26,6 +26,9 @@ My name is Juliano, and welcome to my GitHub profile.
 ### Leisure
 [![Arduino Icon](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
 
+### Databases
+[![Angular Icon](https://skillicons.dev/icons?i=firebase)](https://pt-br.react.dev)
+[![Angular Icon](https://skillicons.dev/icons?i=mysql)](https://pt-br.react.dev)
 ### Tools
 [<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Postman Icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
