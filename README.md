@@ -21,7 +21,7 @@ My name is Juliano, and welcome to my GitHub profile.
 ### Frameworks:
 [![Angular Icon](https://skillicons.dev/icons?i=angular)](https://pt-br.react.dev)
 [![Spring Icon](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![React Icon](https://skillicons.dev/icons?i=react)](https://pt-br.legacy.reactjs.org/docs/getting-started.html)
+
 
 ### Leisure
 [![Arduino Icon](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
