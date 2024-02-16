@@ -16,7 +16,7 @@ My name is Juliano, and welcome to my GitHub profile.
 [![TypeScript Icon](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/pt/)
 [![Java Icon](https://skillicons.dev/icons?i=java)](https://apache.com)
 [![C++ Icon](https://skillicons.dev/icons?i=cpp)](https://apache.com)
-[![PHP Icon](https://skillicons.dev/icons?i=php)](https://apache.com)
+
 
 ### Frameworks:
 [![Angular Icon](https://skillicons.dev/icons?i=angular)](https://pt-br.react.dev)
