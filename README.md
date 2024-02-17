@@ -1,3 +1,5 @@
+# Hello, Devs!! 👋🤙
+
 My name is Juliano, and welcome to my GitHub profile. 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="200px" max-width="200px" width="200px" align="right">
 
@@ -5,8 +7,6 @@ My name is Juliano, and welcome to my GitHub profile.
 - 📍 I'm from Atibaia-SP, Brazil.
 - ☕ Passionate about Java and Technology.
 - 🎓 Studying systems analysis and development at Etec Carmine Biagio Tundisi.
-
-
 ## Technologies
 ### Languages:
 [![HTML Icon](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
