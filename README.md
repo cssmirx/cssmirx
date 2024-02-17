@@ -24,7 +24,7 @@ My name is Juliano, and welcome to my GitHub profile.
 
 ### Leisure
 [![Arduino Icon](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
-[ReactNative Icon](https://img.shields.io/badge/React_Native-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![ReactNative Icon](https://img.shields.io/badge/React_Native-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)]
 
 ### Databases
 [![Angular Icon](https://skillicons.dev/icons?i=firebase)](https://pt-br.react.dev)
