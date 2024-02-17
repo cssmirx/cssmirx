@@ -54,7 +54,6 @@ Skills: `CSS`, `Teamwork`, `MySQL`, `Graphic design`, `Java development`, `Team 
 Period: Aug 2023 - Oct 2023 \
 Skills: `Azure DevOps Server`, `Azure DevOps`, `Microsoft Azure Machine Learning`, `AI-900`
 
-## Statistics
-<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSantosxTech&layout=compact&langs_count=7&theme=radical"/>
-<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=DSantosxTech&show_icons=true&include_all_commits=true&theme=radical"/>
-<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=DSantosxTech&amp;theme=radical"/>
+<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTech-alpha&layout=compact&langs_count=7&theme=radical"/>
+<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=DevTech-alpha&show_icons=true&include_all_commits=true&theme=radical"/>
+<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=DevTech-alpha&amp;theme=radical"/>
