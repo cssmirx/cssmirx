@@ -1,12 +1,11 @@
-# Olá, Desenvolvedores! 👋🤙
+My name is Juliano, and welcome to my GitHub profile. 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="200px" max-width="200px" width="200px" align="right">
 
-Meu nome é Juliano e bem-vindo ao meu perfil no GitHub.
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de computador" min-width="200px" max-width="200px" width="200px" align="right">
+## About Me
+- 📍 I'm from Atibaia-SP, Brazil.
+- ☕ Passionate about Java and Technology.
+- 🎓 Studying systems analysis and development at Etec Carmine Biagio Tundisi.
 
-## Sobre Mim
-- 📍 Sou de Atibaia-SP, Brasil.
-- ☕ Apaixonado por Java e Tecnologia.
-- 🎓 Estudante de análise e desenvolvimento de sistemas na Etec Carmine Biagio Tundisi.
 
 ## Technologies
 ### Languages:
@@ -38,7 +37,7 @@ Meu nome é Juliano e bem-vindo ao meu perfil no GitHub.
 [<img height="48px" width="48px" alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com)
 [<img height="48px" width="48px" alt="Vercel Icon" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
 
-## Como entrar em contato
+## How to Reach Me
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [<img alt="Apple Icloud Mail" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:Juliano.santos88@icloud.com)
 
