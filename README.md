@@ -1,12 +1,12 @@
-# Hello, Devs!! 👋🤙
+# Olá, Desenvolvedores! 👋🤙
 
-My name is Juliano, and welcome to my GitHub profile. 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="200px" max-width="200px" width="200px" align="right">
+Meu nome é Juliano e bem-vindo ao meu perfil no GitHub.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-## About Me
-- 📍 I'm from Atibaia-SP, Brazil.
-- ☕ Passionate about Java and Technology.
-- 🎓 Studying systems analysis and development at Etec Carmine Biagio Tundisi.
+## Sobre Mim
+- 📍 Sou de Atibaia-SP, Brasil.
+- ☕ Apaixonado por Java e Tecnologia.
+- 🎓 Estudante de análise e desenvolvimento de sistemas na Etec Carmine Biagio Tundisi.
 
 ## Technologies
 ### Languages:
@@ -18,27 +18,27 @@ My name is Juliano, and welcome to my GitHub profile.
 [![C++ Icon](https://skillicons.dev/icons?i=cpp)](https://apache.com)
 
 ### Frameworks:
-[![Angular Icon](https://skillicons.dev/icons?i=angular)](https://pt-br.react.dev)
+[![Angular Icon](https://skillicons.dev/icons?i=angular)](https://angular.io)
 [![Spring Icon](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![Bootstrap Icon](https://skillicons.dev/icons?i=bootstrap)](https://spring.io)
+[![Bootstrap Icon](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 
 ### Leisure
-[![Arduino Icon](https://skillicons.dev/icons?i=arduino)](https://arduino.com)
-[![ReactNative Icon](https://img.shields.io/badge/React_Native-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![Arduino Icon](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc)
+[![ReactNative Icon](https://img.shields.io/badge/React_Native-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 
 ### Databases
-[![Angular Icon](https://skillicons.dev/icons?i=firebase)](https://pt-br.react.dev)
-[![Angular Icon](https://skillicons.dev/icons?i=mysql)](https://pt-br.react.dev)
+[![Firebase Icon](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![MySQL Icon](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 
 ### Tools
 [<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Postman Icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Git Icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Azure DevOps Icon" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
-[<img height="48px" width="48px" alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>](https://azure.microsoft.com/pt-br/products/devops/)
-[<img height="48px" width="48px" alt="Docker Icon" src="https://skillicons.dev/icons?i=vercel"/>](https://azure.microsoft.com/pt-br/products/devops/)
+[<img height="48px" width="48px" alt="Azure DevOps Icon" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/services/devops/)
+[<img height="48px" width="48px" alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com)
+[<img height="48px" width="48px" alt="Vercel Icon" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
 
-## How to Reach Me
+## Como entrar em contato
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [<img alt="Apple Icloud Mail" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:Juliano.santos88@icloud.com)
 
