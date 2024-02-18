@@ -8,6 +8,7 @@ My name is Juliano, and welcome to my GitHub profile.
 - ☕ Passionate about Java and Technology.
 - 🎓 Studying systems analysis and development at Etec Carmine Biagio Tundisi.
 ## Technologies
+
 ### Languages:
 [![HTML Icon](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS Icon](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -54,7 +55,8 @@ Skills: `CSS`, `Teamwork`, `MySQL`, `Graphic design`, `Java development`, `Team 
 Period: Aug 2023 - Oct 2023 \
 Skills: `Azure DevOps Server`, `Azure DevOps`, `Microsoft Azure Machine Learning`, `AI-900`
 
-## Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTech-alpha&layout=compact&langs_count=7&theme=radical"/>
 <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=DevTech-alpha&show_icons=true&include_all_commits=true&theme=radical"/>
 <img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=DevTech-alpha&amp;theme=radical"/>
