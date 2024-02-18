@@ -1,4 +1,4 @@
-# Hello, Devs!! 👋🤙
+# Hello, Devs!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 My name is Juliano, and welcome to my GitHub profile. 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="200px" max-width="200px" width="200px" align="right">
