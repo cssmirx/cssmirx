@@ -38,6 +38,7 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 [<img height="48px" width="48px" alt="Azure DevOps Icon" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/services/devops/)
 [<img height="48px" width="48px" alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com)
 [<img height="48px" width="48px" alt="Vercel Icon" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
+[<img height="48px" width="48px" alt="Vercel Icon" src="https://skillicons.dev/icons?i=expo"/>](https://expo.dev)
 
 ## Como me encontrar
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
