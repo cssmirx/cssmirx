@@ -36,13 +36,9 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 ### Ferramentas
 [<img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code Icon">](https://code.visualstudio.com)
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">](https://www.postman.com)
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git Icon">](https://git-scm.com)
-[<img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps Icon">](https://azure.microsoft.com/pt-br/services/devops/)
 [<img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon">](https://www.docker.com)
 [<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel Icon">](https://vercel.com)
-[<img src="https://www.svgrepo.com/show/341805/expo.svg" alt="Expo Icon">](https://expo.dev)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans Icon">](https://netbeans.apache.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL Icon">](https://www.heidisql.com/)
+
 
 ## Como me encontrar
 [<img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
