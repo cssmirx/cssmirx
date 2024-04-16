@@ -10,8 +10,6 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 ## Tecnologias
 
-## Tecnologias
-
 ### Linguagens:
 [<img src="https://skillicons.dev/icons?i=html" alt="HTML Icon">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=css" alt="CSS Icon">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -38,7 +36,9 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">](https://www.postman.com)
 [<img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon">](https://www.docker.com)
 [<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel Icon">](https://vercel.com)
-
+[<img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ IDEA Icon">](https://www.jetbrains.com/idea/)
+[<img src="https://skillicons.dev/icons?i=netbeans" alt="NetBeans Icon">](https://netbeans.apache.org/)
+[<img src="https://skillicons.dev/icons?i=heidisql" alt="HeidiSQL Icon">](https://www.heidisql.com/)
 
 ## Como me encontrar
 [<img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
