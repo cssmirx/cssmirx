@@ -10,41 +10,44 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 ## Tecnologias
 
+## Tecnologias
+
 ### Linguagens:
-[![HTML Icon](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS Icon](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript Icon](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript Icon](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/pt/)
-[![Java Icon](https://skillicons.dev/icons?i=java)](https://apache.com)
-[![C++ Icon](https://skillicons.dev/icons?i=cpp)](https://apache.com)
+[<img src="https://skillicons.dev/icons?i=html" alt="HTML Icon">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=css" alt="CSS Icon">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript Icon">](https://www.typescriptlang.org/pt/)
+[<img src="https://skillicons.dev/icons?i=java" alt="Java Icon">](https://apache.com)
+[<img src="https://skillicons.dev/icons?i=cpp" alt="C++ Icon">](https://apache.com)
 
 ### Frameworks:
-[![Angular Icon](https://skillicons.dev/icons?i=angular)](https://angular.io)
-[![Spring Icon](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![Bootstrap Icon](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+[<img src="https://skillicons.dev/icons?i=angular" alt="Angular Icon">](https://angular.io)
+[<img src="https://skillicons.dev/icons?i=spring" alt="Spring Icon">](https://spring.io)
+[<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon">](https://getbootstrap.com)
 
 ### Lazer
-[![Arduino Icon](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc)
-[![ReactNative Icon](https://img.shields.io/badge/React_Native-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino Icon">](https://www.arduino.cc)
+[<img src="https://skillicons.dev/icons?i=react" alt="React Native Icon">](https://reactnative.dev)
 
 ### Bancos de Dados
-[![Firebase Icon](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
-[![MySQL Icon](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Icon">](https://firebase.google.com)
+[<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon">](https://www.mysql.com)
 
 ### Ferramentas
-[<img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Postman Icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="48px" width="48px" alt="Git Icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Azure DevOps Icon" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/services/devops/)
-[<img height="48px" width="48px" alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com)
-[<img height="48px" width="48px" alt="Vercel Icon" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
-   <img src="https://www.svgrepo.com/show/341805/expo.svg" height="50" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="50" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" height="50" width="55"/>
+[<img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code Icon">](https://code.visualstudio.com)
+[<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">](https://www.postman.com)
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git Icon">](https://git-scm.com)
+[<img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps Icon">](https://azure.microsoft.com/pt-br/services/devops/)
+[<img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon">](https://www.docker.com)
+[<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel Icon">](https://vercel.com)
+[<img src="https://www.svgrepo.com/show/341805/expo.svg" alt="Expo Icon">](https://expo.dev)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans Icon">](https://netbeans.apache.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="HeidiSQL Icon">](https://www.heidisql.com/)
 
 ## Como me encontrar
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[<img alt="Apple Icloud Mail" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:Juliano.santos88@icloud.com)
+[<img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[<img src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" alt="Apple Icloud Mail">](mailto:Juliano.santos88@icloud.com)
+
 
 ## Formação Acadêmica
 [<img align="left" height="94px" width="94px" alt="Etec" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKD-WQPvQrM1mJW9oFmHYn2fRvQwbnFbvsQ&usqp=CAU"/>](https://etec.carmine/)
