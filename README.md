@@ -10,7 +10,6 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 ## Tecnologias
 
-### Linguagens:
 [<img src="https://skillicons.dev/icons?i=html" alt="HTML Icon">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=css" alt="CSS Icon">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
