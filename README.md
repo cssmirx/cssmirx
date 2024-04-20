@@ -27,9 +27,10 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 [<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino Icon">](https://www.arduino.cc)
 [<img src="https://skillicons.dev/icons?i=react" alt="React Native Icon">](https://reactnative.dev)
 
-### Bancos de Dados
+### Banco de Dados
 [<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Icon">](https://firebase.google.com)
 [<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon">](https://www.mysql.com)
+[<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL Icon">](https://www.postgresql.org)
 
 ### Ferramentas
 [<img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code Icon">](https://code.visualstudio.com)
