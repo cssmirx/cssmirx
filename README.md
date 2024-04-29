@@ -5,7 +5,7 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 ## Sobre Mim
 - 📍 Sou de Atibaia-SP, Brasil.
-- ☕️ Software developer apaixonado por tênis e Arduino.
+- ☕️ Software developer
 - 🎓 Estudante de análise e desenvolvimento de sistemas na Etec Carmine Biagio Tundisi.
 
 ## Tecnologias
