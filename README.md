@@ -36,6 +36,7 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">](https://www.postman.com)
 [<img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon">](https://www.docker.com)
 [<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel Icon">](https://vercel.com)
+[<img src="https://skillicons.dev/icons?i=idea" alt="Idea Icon">](https://www.jetbrains.com/pt-br/idea/)
 
 
 
