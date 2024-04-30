@@ -32,11 +32,20 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 [<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL Icon">](https://www.postgresql.org)
 
 ### Ferramentas
+
+#### IDE
 [<img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code Icon">](https://code.visualstudio.com)
-[<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">](https://www.postman.com)
-[<img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon">](https://www.docker.com)
-[<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel Icon">](https://vercel.com)
 [<img src="https://skillicons.dev/icons?i=idea" alt="Idea Icon">](https://www.jetbrains.com/pt-br/idea/)
+
+#### Deploy
+[<img src="https://skillicons.dev/icons?i=azure" alt="Azure Icon">](https://azure.microsoft.com)
+[<img src="https://skillicons.dev/icons?i=aws" alt="Aws Icon">](https://aws.amazon.com)
+
+#### Utils 
+[<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">](https://www.postman.com)
+
+
+
 
 
 
