@@ -71,6 +71,6 @@ Habilidades: `Azure DevOps Server`, `Azure DevOps`, `Microsoft Azure Machine Lea
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatísticas do Github </b>
 
-<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntoosk&layout=compact&langs_count=7&theme=radical"/>
-<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=sntoosk&show_icons=true&include_all_commits=true&theme=radical"/>
-<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=sntoosk&amp;theme=radical"/>
+<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntooosk&layout=compact&langs_count=7&theme=radical"/>
+<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=sntooosk&show_icons=true&include_all_commits=true&theme=radical"/>
+<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=sntooosk&amp;theme=radical"/>
