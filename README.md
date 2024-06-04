@@ -51,9 +51,9 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 
 ## Como me encontrar
-[<img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">](https://www.linkedin.com/in/juliano-santos-590345257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[<img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">](https://www.linkedin.com/in/sntooosk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [<img src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" alt="Apple Icloud Mail">](mailto:Juliano.santos88@icloud.com)
-[<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://instagram.com/_sntosk_)
+[<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://instagram.com/sntooosk)
 
 
 ## Formação Acadêmica
