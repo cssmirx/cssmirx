@@ -39,7 +39,7 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 #### Serviços em Nuvem
 [<img src="https://skillicons.dev/icons?i=azure" alt="Azure Icon">](https://azure.microsoft.com)
-[<img src="https://skillicons.dev/icons?i=aws" alt="Aws Icon">](https://aws.amazon.com)
+
 
 #### Utils
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon">](https://www.postman.com)
