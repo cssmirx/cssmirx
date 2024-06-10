@@ -38,6 +38,7 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 #### Serviços em Nuvem
 [<img src="https://skillicons.dev/icons?i=azure" alt="Azure Icon">](https://azure.microsoft.com)
+[<img src="https://skillicons.dev/icons?i=render" alt="Render Icon">](https://render.com)
 
 
 #### Utils
