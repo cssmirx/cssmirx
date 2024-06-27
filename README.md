@@ -64,8 +64,8 @@ Período: 2022 - 2024 \
 Habilidades: `CSS`, `Trabalho em equipe`, `MySQL`, `Design gráfico`, `Desenvolvimento Java`, `Atividades de integração em equipe`, `Banco de dados`, `Análise de projeto de sistema`, `HTML5` ,`C++` ,`Arduino` 
 
 [<img align="left" height="94px" width="94px" alt="Senai" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjpsqJvahtYAD5J0mjVEAah7TgcBQkzKxSA&usqp=CAU"/>](https://senai-sp.br/)
-**Inteligência Artificial AI-900** \
-[**SENAI Bragança Paulista**](https://senai-sp.br/) \
+**Implementação da inteligência artificial em nuvem - AI-900 Microsoft** \
+[**Escola SENAI de Bragança Paulista**](https://senai-sp.br/) \
 Período: Ago 2023 - Out 2023 \
 Habilidades: `Azure DevOps Server`, `Azure DevOps`, `Microsoft Azure Machine Learning`, `AI-900`
 
