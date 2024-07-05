@@ -20,8 +20,6 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 ### Frameworks:
 [<img src="https://skillicons.dev/icons?i=angular" alt="Angular Icon">](https://angular.io)
 [<img src="https://skillicons.dev/icons?i=spring" alt="Spring Icon">](https://spring.io)
-[<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon">](https://getbootstrap.com)
-[<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind Icon">](https://getbootstrap.com)
 
 ### Lazer
 [<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino Icon">](https://www.arduino.cc)
