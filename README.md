@@ -34,6 +34,7 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 #### IDE
 [<img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code Icon">](https://code.visualstudio.com)
+[<img src="https://skillicons.dev/icons?i=intelij" alt="VS-Code Icon">](https://code.visualstudio.com)
 
 #### Serviços em Nuvem
 [<img src="https://skillicons.dev/icons?i=azure" alt="Azure Icon">](https://azure.microsoft.com)
