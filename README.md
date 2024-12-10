@@ -6,7 +6,7 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 ## Sobre Mim
 - 📍 Sou de Atibaia-SP, Brasil.
 - ☕️ Software developer
-- 🎓 Estudante de análise e desenvolvimento de sistemas na Etec Carmine Biagio Tundisi.
+- 🎓 Estudante de desenvolvimento de sistemas na Etec Carmine Biagio Tundisi.
 
 ## Tecnologias
 
@@ -58,7 +58,7 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 ## Formação Acadêmica
 [<img align="left" height="94px" width="94px" alt="Etec" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKD-WQPvQrM1mJW9oFmHYn2fRvQwbnFbvsQ&usqp=CAU"/>](https://etec.carmine/)
-**Análise e Desenvolvimento de Sistemas** \
+**Desenvolvimento de Sistemas** \
 [**ETEC Prof. Carmine Biagio Tundisi**](https://etec.carmine/) \
 Período: 2022 - 2024 \
 Habilidades: `CSS`, `Trabalho em equipe`, `MySQL`, `Design gráfico`, `Desenvolvimento Java`, `Atividades de integração em equipe`, `Banco de dados`, `Análise de projeto de sistema`, `HTML5` ,`C++` ,`Arduino` 
