@@ -5,8 +5,8 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 
 ## Sobre Mim
 - 📍 Sou de Atibaia-SP, Brasil.
-- ☕️ Software developer
-- 🎓 Estudante de desenvolvimento de sistemas na Etec Carmine Biagio Tundisi.
+- ☕️ Desenvolvedor Java
+- 🎓 Formado em desenvolvimento de sistemas na Etec Carmine Biagio Tundisi.
 
 ## Tecnologias
 
