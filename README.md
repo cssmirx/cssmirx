@@ -60,14 +60,12 @@ Meu nome é Juliano, seja bem-vindo ao meu perfil no GitHub.
 [<img align="left" height="94px" width="94px" alt="Etec" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKD-WQPvQrM1mJW9oFmHYn2fRvQwbnFbvsQ&usqp=CAU"/>](https://etec.carmine/)
 **Desenvolvimento de Sistemas** \
 [**ETEC Prof. Carmine Biagio Tundisi**](https://etec.carmine/) \
-Período: 2022 - 2024 \
-Habilidades: `CSS`, `Trabalho em equipe`, `MySQL`, `Design gráfico`, `Desenvolvimento Java`, `Atividades de integração em equipe`, `Banco de dados`, `Análise de projeto de sistema`, `HTML5` ,`C++` ,`Arduino` 
+Período: 2022 - 2024
 
 [<img align="left" height="94px" width="94px" alt="Senai" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjpsqJvahtYAD5J0mjVEAah7TgcBQkzKxSA&usqp=CAU"/>](https://senai-sp.br/)
 **Implementação da inteligência artificial em nuvem - AI-900 Microsoft** \
 [**Escola SENAI de Bragança Paulista**](https://senai-sp.br/) \
-Período: Ago 2023 - Out 2023 \
-Habilidades: `Azure DevOps Server`, `Azure DevOps`, `Microsoft Azure Machine Learning`, `AI-900`
+Período: Ago 2023 - Out 2023 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatísticas do Github </b>
 
