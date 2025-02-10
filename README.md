@@ -3,8 +3,6 @@
 Meu nome é **Juliano**, seja bem-vindo ao meu perfil no GitHub!  
 Sou um **desenvolvedor Java full-stack**, apaixonado por tecnologia, inovação e soluções eficientes para problemas complexos.  
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="200px" align="right">
-
 ## 🚀 Sobre Mim  
 
 - 📍 **Atibaia - SP, Brasil**  
@@ -37,21 +35,9 @@ Sou um **desenvolvedor Java full-stack**, apaixonado por tecnologia, inovação 
 
 ## 📚 Formação Acadêmica  
 
-### 🎓 **Desenvolvimento de Software Multiplataforma** (Cursando)  
-📍 [FATEC Atibaia](https://fatecatibaia.edu.br/) | **2025 - 2027**  
-[<img align="left" height="94px" width="94px" alt="FATEC" src="https://www.cps.sp.gov.br/wp-content/uploads/2021/06/FATEC-SP-1.png"/>](https://fatecatibaia.edu.br/)
-
----
-
-### 🎓 **Desenvolvimento de Sistemas**  
-📍 [ETEC Prof. Carmine Biagio Tundisi](https://etec.carmine/) | **2022 - 2024**  
-[<img align="left" height="94px" width="94px" alt="ETEC" src="https://www.cps.sp.gov.br/wp-content/uploads/2021/06/ETEC-SP-1.png"/>](https://etec.carmine/)
-
----
-
-### 🎓 **Implementação da Inteligência Artificial em Nuvem - AI-900 Microsoft**  
-📍 [Escola SENAI de Bragança Paulista](https://senai-sp.br/) | **Ago 2023 - Out 2023**  
-[<img align="left" height="94px" width="94px" alt="SENAI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SENAI_logo.svg/1280px-SENAI_logo.svg.png"/>](https://senai-sp.br/)
+- 🎓 **Desenvolvimento de Software Multiplataforma** (Cursando) - [FATEC Atibaia](https://fatecatibaia.edu.br/) (2025 - 2027)  
+- 🎓 **Desenvolvimento de Sistemas** - [ETEC Prof. Carmine Biagio Tundisi](https://etec.carmine/) (2022 - 2024)  
+- 🎓 **Implementação da Inteligência Artificial em Nuvem (AI-900 Microsoft)** - [SENAI Bragança Paulista](https://senai-sp.br/) (Ago 2023 - Out 2023)  
 
 ---
 
