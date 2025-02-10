@@ -1,5 +1,7 @@
 # Olá, Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="180px" align="right">
+
 Meu nome é **Juliano**, seja bem-vindo ao meu perfil no GitHub!  
 Sou um **desenvolvedor Java full-stack**, apaixonado por tecnologia, inovação e soluções eficientes para problemas complexos.  
 
@@ -8,6 +10,7 @@ Sou um **desenvolvedor Java full-stack**, apaixonado por tecnologia, inovação 
 - 📍 **Atibaia - SP, Brasil**  
 - ☕ **Desenvolvedor Java & Angular**  
 - 🎓 **Cursando Desenvolvimento de Software Multiplataforma - FATEC Atibaia**  
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
