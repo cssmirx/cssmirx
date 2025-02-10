@@ -1,10 +1,10 @@
 # Olá, Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="180px" align="right">
 
 
 Meu nome é **Juliano**, seja bem-vindo ao meu perfil no GitHub!  
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="180px" align="right">
+
 
 ## 🚀 Sobre Mim  
 
