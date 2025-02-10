@@ -48,7 +48,7 @@ Meu nome é **Juliano**, seja bem-vindo ao meu perfil no GitHub!
 
 ## 🎓 Formação Acadêmica  
 
-[<img align="left" height="94px" width="94px" alt="FATEC" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/FATEC-SP_logo.png"/>](https://fatecatibaia.edu.br/)  
+<img align="left" height="94px" width="94px" alt="FATEC" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/FATEC-SP_logo.png"/>(https://fatecatibaia.edu.br/)  
 **Desenvolvimento de Software Multiplataforma** (Cursando)  
 [**FATEC Atibaia**](https://fatecatibaia.edu.br/)  
 📅 **2025 - 2027**  
