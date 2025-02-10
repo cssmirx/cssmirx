@@ -8,10 +8,6 @@ Sou um **desenvolvedor Java full-stack**, apaixonado por tecnologia, inovação 
 - 📍 **Atibaia - SP, Brasil**  
 - ☕ **Desenvolvedor Java & Angular**  
 - 🎓 **Cursando Desenvolvimento de Software Multiplataforma - FATEC Atibaia**  
-- 🎓 **Formado em Desenvolvimento de Sistemas - ETEC Prof. Carmine Biagio Tundisi**  
-- 🎯 Interesse em **Cloud Computing, Inteligência Artificial e Arquitetura de Software**  
-- 💡 **Sempre aprendendo e compartilhando conhecimento!**  
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
