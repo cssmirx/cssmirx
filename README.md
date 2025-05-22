@@ -6,7 +6,7 @@ Meu nome é **Juliano**, seja bem-vindo ao meu perfil no GitHub!
 ## 🚀 Sobre Mim  
 
 - 📍 **Atibaia - SP, Brasil**    
-- 🎓 **Cursando Desenvolvimento de Software Multiplataforma - FATEC
+- 🎓 **Cursando Desenvolvimento de Software Multiplataforma - FATEC ATIBAIA**
 
 ## 📚 Formação Acadêmica  
 
