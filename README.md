@@ -2,7 +2,6 @@
 
 Sou **Analista de QA Aprendiz** na **Quality Digital**, com foco em testes de software, qualidade de produto e boas práticas no ciclo de desenvolvimento. Busco crescer na área de QA com aprendizado contínuo e experiências reais em times ágeis.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer" width="180" align="right">
 
 ---
 
