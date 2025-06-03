@@ -8,7 +8,6 @@ Atualmente atuo como **Analista de QA Aprendiz** na **Quality Digital**, onde co
 
 - 🔎 Testes funcionais e exploratórios  
 - 🧪 Iniciando com **Cypress**, **Jest** e **Gherkin**  
-- 👨‍💻 Conhecimentos em **JavaScript** e **Node.js**
 
 ---
 
