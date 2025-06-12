@@ -28,18 +28,6 @@ Sou **Aprendiz QA** na **Quality Digital**, com foco em testes de software, qual
 
 ---
 
-## 📦 Tecnologias & Ferramentas
-
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntooosk)
-
----
-
-> *“A qualidade não é um ato, é um hábito.” – Aristóteles*
