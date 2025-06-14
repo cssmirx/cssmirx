@@ -1,8 +1,4 @@
 # Olá, eu sou o Juliano!
-
-Sou **Aprendiz QA** na **Quality Digital**, com foco em testes de software, qualidade de produto e boas práticas no ciclo de desenvolvimento. Busco crescer na área de QA com aprendizado contínuo e experiências reais em times ágeis.
-
-
 ---
 
 ## 🧪 Sobre minha atuação em Qualidade
@@ -23,7 +19,7 @@ Sou **Aprendiz QA** na **Quality Digital**, com foco em testes de software, qual
 ## 💼 Experiência Profissional
 
 **Quality Digital** *(desde Jun/2025)*  
-`Aprendiz QA`  
+`Analista de QA`  
 > Atuação em testes exploratórios, apoio à automação, documentação de defeitos e validação de funcionalidades. Inserido em práticas ágeis com foco na qualidade contínua.
 
 ---
